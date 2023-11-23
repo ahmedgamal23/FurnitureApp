@@ -1,0 +1,67 @@
+{
+  "browse_category": [
+    {
+      "category_id": 1,
+      "category_name": "ArmChair",
+      "category_image": "assets/images/Categories/ArmChair.jpg",
+      "category_count": 5
+    },
+    {
+      "category_id": 2,
+      "category_name": "Sofa",
+      "category_image": "assets/images/Categories/Sofa.jpg",
+      "category_count": 8
+    },
+    {
+      "category_id": 3,
+      "category_name": "Table",
+      "category_image": "assets/images/Categories/Table.jpg",
+      "category_count": 10
+    },
+    {
+      "category_id": 2,
+      "category_name": "Bed",
+      "category_image": "assets/images/Categories/Bed.jpg",
+      "category_count": 5
+    },
+    {
+      "category_id": 3,
+      "category_name": "Bookcase",
+      "category_image": "assets/images/Categories/Bookcase.jpg",
+      "category_count": 7
+    }
+
+  ],
+  "recommended_for_you": [
+    {
+      "recommended_id": 1,
+      "recommended_name": "Antique furniture and decor",
+      "recommended_image": "assets/images/Recommended/AntiqueFurnitureAndDecor.jpg",
+      "recommended_price": 10000.0
+    },
+    {
+      "recommended_id": 2,
+      "recommended_name": "Modern chair",
+      "recommended_image": "assets/images/Recommended/ModernChair.jpg",
+      "recommended_price": 1500.0
+    },
+    {
+      "recommended_id": 3,
+      "recommended_name": "White cloak room",
+      "recommended_image": "assets/images/Recommended/WhiteCloakRoom.jpg",
+      "recommended_price": 24000.0
+    },
+    {
+      "recommended_id": 4,
+      "recommended_name": "Wicker hanging chairs",
+      "recommended_image": "assets/images/Recommended/WickerHangingChairs.jpg",
+      "recommended_price": 6550.0
+    },
+    {
+      "recommended_id": 5,
+      "recommended_name": "Wooden table and circle chairs",
+      "recommended_image": "assets/images/Recommended/WoodenTableAndCircleChairs.jpg",
+      "recommended_price": 2500.0
+    }
+  ]
+}
