@@ -1,7 +1,7 @@
 # furniture_app
 
-<img src="https://github.com/ahmedgamal23/FurnitureApp/assets/99516536/bf0c5fed-0cc3-45d5-8628-effe58343fbb" width="600" height="500" />
-<img src="https://github.com/ahmedgamal23/FurnitureApp/assets/99516536/545f3d1c-9f9a-4c27-8687-c0fdf6cba760" width="600" height="500" />
+<img src="https://github.com/ahmedgamal23/FurnitureApp/assets/99516536/bf0c5fed-0cc3-45d5-8628-effe58343fbb" width="300" height="500" />
+<img src="https://github.com/ahmedgamal23/FurnitureApp/assets/99516536/545f3d1c-9f9a-4c27-8687-c0fdf6cba760" width="300" height="500" />
 <img src="https://github.com/ahmedgamal23/FurnitureApp/assets/99516536/88d669c6-0778-4551-84f3-78968b15c867" width="600" height="500" />
 <img src="https://github.com/ahmedgamal23/FurnitureApp/assets/99516536/c263d470-5c41-4204-9257-6eca9ca6ad2f" width="600" height="500" />
 <img src="https://github.com/ahmedgamal23/FurnitureApp/assets/99516536/2700d916-ecc0-4759-8a1b-83ad8c1b2182" width="600" height="500" />
